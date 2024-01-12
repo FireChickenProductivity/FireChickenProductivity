@@ -14,7 +14,7 @@ I am a computer science student working on projects to make it easier for people
 [Exam Mode](https://github.com/FireChickenProductivity/Talon-Voice-Exam-Mode): This blocks many of the talon community repository commands and actions when a specific talon voice tag is active. This let me work with many of of the community commands about having to worry about triggering voice commands that would not be allowed on exams.
 
 ## Mouse Control
-[Mouse Control Chicken](https://github.com/FireChickenProductivity/MouseControlChicken): Offers several mouse grid systems. 
+[Mouse Control Chicken](https://github.com/FireChickenProductivity/MouseControlChicken): Offers several mouse grid systems. This works better for me than other systems for controlling the computer mouse through voice and offers considerable customization options. This system was also an experiment at using what I learned studying object oriented design to make a system that would be easier to extend and maintain.
 
 [Viper](https://github.com/FireChickenProductivity/Viper): Originally started as a project to control the computer mouse through hissing. It can now be used to trigger custom sets of actions through hissing. I find this useful for saving vocal endurance.
 
