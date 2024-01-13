@@ -26,7 +26,7 @@ I am a computer science student working on projects to make it easier for people
 ## Miscellaneous
 [Clipboard Manager](https://github.com/FireChickenProductivity/Talon-Voice-multidimensional-clipboard): Simple, but one of the most useful things I made.
 
-[Google Sheets Commands](https://github.com/FireChickenProductivity/GoogleSheetsTalonCommands): This was created in a hurry to make it practical for me to do a few assignments, but some people find them useful.
+[Google Sheets Commands](https://github.com/FireChickenProductivity/GoogleSheetsTalonCommands): This was created in a hurry to make it practical for me to do a few assignments, but some people find it useful.
 
 [Key Rebinding](https://github.com/FireChickenProductivity/TalonKeyRebindings): This makes it easier to do some talon key rebinding work and was developed to help support the use case of a specific talon user.
 
