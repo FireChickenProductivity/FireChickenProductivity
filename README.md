@@ -40,4 +40,4 @@ I am a computer science student working on projects to make it easier for people
 ## My Contributions to Others' Projects
 I made a minor contribution to [sight-free-talon](https://github.com/C-Loftus/sight-free-talon). According to the project readme, it makes it easier to "Use Talon while not needing to look at your computer. Especially helpful for those with vision impairment, blindness, eye strain, or those who prefer alternative computer interaction."
 
-I made minor contributions to [the talon voice community repository[(https://github.com/talonhub/community).
+I made minor contributions to [the talon voice community repository](https://github.com/talonhub/community).
