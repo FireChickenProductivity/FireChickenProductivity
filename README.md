@@ -23,6 +23,8 @@ I am a computer science student working on projects to make it easier for people
 
 [Basic Action Record Analysis](https://github.com/FireChickenProductivity/BasicActionRecordAnalyzer): I made a prototype but currently not very documented program for generating the body of the source code for new voice commands based on one of those histories (The body defines the actions a voice command will perform. Every other aspect defines when a command is available and what you say to use it). The goal is to generate commands that can improve productivity by condensing frequent command sequences into individual commands as well as to identify voice commands frequently used where the user says a lot to do little. I find it surprisingly useful, but it generates excessive recommendations and quite a few useless recommendations.
 
+[Artificial History Generator](https://github.com/FireChickenProductivity/ArtificialTalonCommandHistoryGenerator): I made a program for generating an artificial talon voice command history that could have been used to generate an input text file (with some limitations). This can be combined with the basic action record analysis program to generate voice commands that may be useful for generating certain kinds of text.
+
 ## Miscellaneous
 [Clipboard Manager](https://github.com/FireChickenProductivity/Talon-Voice-multidimensional-clipboard): Simple, but one of the most useful things I made.
 
