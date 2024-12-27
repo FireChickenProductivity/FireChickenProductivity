@@ -28,6 +28,8 @@ I am a computer science student working on projects to make it easier for people
 ## Miscellaneous
 [Clipboard Manager](https://github.com/FireChickenProductivity/Talon-Voice-multidimensional-clipboard): Simple, but one of the most useful things I made.
 
+[Terminal Chicken](https://github.com/FireChickenProductivity/TerminalChicken): Allows writing terminal commands in VSCode and having them sent to the terminal. This allows using tools like cursorless for editing terminal commands.
+
 [Google Sheets Commands](https://github.com/FireChickenProductivity/GoogleSheetsTalonCommands): This was created in a hurry to make it practical for me to do a few assignments, but some people find it useful.
 
 [Key Rebinding](https://github.com/FireChickenProductivity/TalonKeyRebindings): This makes it easier to do some talon key rebinding work and was developed to help support the use case of a specific talon user.
