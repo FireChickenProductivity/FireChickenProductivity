@@ -39,7 +39,7 @@ I am a computer science student working on projects to make it easier for people
 
 [Programming](https://github.com/FireChickenProductivity/PersonalTalonVoiceCodingSetup): This is my personal setup for programming. It is also intended to be used with the community talon repository. This is really not intended to be useful for anyone other than myself, but you might want to borrow some of my custom commands for doing talon voice customization if you have to do a lot of that yourself.
 
-[Community Fork](https://github.com/FireChickenProductivity/PersonalCommunityFork): This is my personal fork of the community talon repository. 
+[Community Fork](https://github.com/FireChickenProductivity/knausj_talon/tree/personal-setup): This is my personal fork of the community talon repository. 
 
 ## My Contributions to Others' Projects
 I made a minor contribution to [sight-free-talon](https://github.com/C-Loftus/sight-free-talon). According to the project readme, it makes it easier to "Use Talon while not needing to look at your computer. Especially helpful for those with vision impairment, blindness, eye strain, or those who prefer alternative computer interaction."
