@@ -1,4 +1,4 @@
-I am a computer science student working on projects to make it easier for people with repetitive strain injuries to operate a computer.
+I am a computer science student working on projects to make it easier for people with disabilities to operate a computer.
 
 # Summary of Significant Talon Voice Projects
 ## Summary of Talon: The Tool My Projects Are Built On
