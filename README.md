@@ -4,14 +4,10 @@ I am a computer science student working on projects to make it easier for people
 ## Summary of Talon: The Tool My Projects Are Built On
 [Talon Voice](https://talonvoice.com/) is an extremely customizable voice command and dictation software that also offers support for working with eye tracker and key macros. I frequently work on talon voice customization projects for personal use and to help others. The software is largely used by people with disabilities, but is used by some nondisabled technical workers to boost their productivity or lower their risk for repetitive strain injury. Talon is a popular choice for voice programming. (In case it was not obvious, no, I did not develop Talon Voice. I just write customization for it)
 
-## Projects That Let Me Not Need Extended Time Exam Accommodation
-[Math Commands](https://github.com/FireChickenProductivity/Talon-Voice-EquatIO-Commands): I personally find my math command setup better for speed than any of the alternatives. Your mileage may vary. They work with EquatIO, which is a math software used already by some academic institutions to accommodate various disabilities.
+## My Contributions to Others' Projects
+I made a minor contribution to [sight-free-talon](https://github.com/C-Loftus/sight-free-talon). According to the project readme, it makes it easier to "Use Talon while not needing to look at your computer. Especially helpful for those with vision impairment, blindness, eye strain, or those who prefer alternative computer interaction."
 
-[Diagram Drawing Commands](https://github.com/FireChickenProductivity/TalonVoiceDiagramDrawing): They are currently primarily intended for personal use, but I am gradually making it easier for others to work with. I find that useful mostly for simple computer science diagrams and helping me solve some math problems.
-
-[Desmos Calculator Commands](https://github.com/FireChickenProductivity/TalonVoiceDesmosCommands): These commands are for working with desmos online calculators. Many colleges and universities allow students with certain disabilities to use desmos calculators during exams.
-
-[Exam Mode](https://github.com/FireChickenProductivity/Talon-Voice-Exam-Mode): This blocks many of the talon community repository commands and actions when a specific talon voice tag is active. This let me work with many of of the community commands about having to worry about triggering voice commands that would not be allowed on exams.
+I regularly contribute to [the talon voice community repository](https://github.com/talonhub/community).
 
 ## Mouse Control
 [Mouse Control Chicken](https://github.com/FireChickenProductivity/MouseControlChicken): Offers several mouse grid systems. This works better for me than other systems for controlling the computer mouse through voice and offers considerable customization options. This system was also an experiment at using what I learned studying object oriented design to make a system that would be easier to extend and maintain.
@@ -43,7 +39,11 @@ I am a computer science student working on projects to make it easier for people
 
 [Community Fork](https://github.com/FireChickenProductivity/knausj_talon/tree/personal-setup): This is my personal fork of the community talon repository. 
 
-## My Contributions to Others' Projects
-I made a minor contribution to [sight-free-talon](https://github.com/C-Loftus/sight-free-talon). According to the project readme, it makes it easier to "Use Talon while not needing to look at your computer. Especially helpful for those with vision impairment, blindness, eye strain, or those who prefer alternative computer interaction."
+## Projects That Let Me Not Need Extended Time Exam Accommodation
+[Math Commands](https://github.com/FireChickenProductivity/Talon-Voice-EquatIO-Commands): I personally find my math command setup better for speed than any of the alternatives. Your mileage may vary. They work with EquatIO, which is a math software used already by some academic institutions to accommodate various disabilities.
 
-I contribute to [the talon voice community repository](https://github.com/talonhub/community).
+[Diagram Drawing Commands](https://github.com/FireChickenProductivity/TalonVoiceDiagramDrawing): They are currently primarily intended for personal use, but I am gradually making it easier for others to work with. I find that useful mostly for simple computer science diagrams and helping me solve some math problems.
+
+[Desmos Calculator Commands](https://github.com/FireChickenProductivity/TalonVoiceDesmosCommands): These commands are for working with desmos online calculators. Many colleges and universities allow students with certain disabilities to use desmos calculators during exams.
+
+[Exam Mode](https://github.com/FireChickenProductivity/Talon-Voice-Exam-Mode): This blocks many of the talon community repository commands and actions when a specific talon voice tag is active. This let me work with many of of the community commands about having to worry about triggering voice commands that would not be allowed on exams.
