@@ -26,6 +26,8 @@ I am a computer science student working on projects to make it easier for people
 [Artificial History Generator](https://github.com/FireChickenProductivity/ArtificialTalonCommandHistoryGenerator): I made a program for generating an artificial talon voice command history that could have been used to generate an input text file (with some limitations). This can be combined with the basic action record analysis program to generate voice commands that may be useful for generating certain kinds of text.
 
 ## Miscellaneous
+[Correction Chicken](https://github.com/FireChickenProductivity/CorrectionChicken): Simple dictation error correction system.
+
 [Clipboard Manager](https://github.com/FireChickenProductivity/Talon-Voice-multidimensional-clipboard): Simple, but one of the most useful things I made.
 
 [Terminal Chicken](https://github.com/FireChickenProductivity/TerminalChicken): Allows writing terminal commands in VSCode and having them sent to the terminal. This allows using tools like cursorless for editing terminal commands.
