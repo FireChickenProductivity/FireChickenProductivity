@@ -35,7 +35,7 @@ I am a computer science student working on projects to make it easier for people
 [Key Rebinding](https://github.com/FireChickenProductivity/TalonKeyRebindings): This makes it easier to do some talon key rebinding work and was developed to help support the use case of a specific talon user.
 
 ## Personal Setup
-[Dictation Setup](https://github.com/FireChickenProductivity/TalonVoiceDictationSetup): This is my personal setup for dictating prose. It has few bugs in it, but some other people find it useful. It is intended to be used with the community talon repository.
+[Dictation Setup](https://github.com/FireChickenProductivity/TalonVoiceDictationSetup): This is my personal setup for dictating prose. It is intended to be used with the community talon repository.
 
 [Programming](https://github.com/FireChickenProductivity/PersonalTalonVoiceCodingSetup): This is my personal setup for programming. It is also intended to be used with the community talon repository. This is really not intended to be useful for anyone other than myself, but you might want to borrow some of my custom commands for doing talon voice customization if you have to do a lot of that yourself.
 
