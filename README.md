@@ -30,6 +30,8 @@ I have been helping document more features on the [talon wiki](https://github.co
 
 [Terminal Chicken](https://github.com/FireChickenProductivity/TerminalChicken): Allows writing terminal commands in VSCode and having them sent to the terminal. This allows using tools like cursorless for editing terminal commands.
 
+[Chicken Notes](https://github.com/FireChickenProductivity/Notes): Talon extension for displaying notes. I use this to display certain notes when I use programming commands to prevent me from forgetting gotchas. Having the information displayed when I need it also speeds up memorization for me and lets me get proficient at new languages and libraries faster. 
+
 [Google Sheets Commands](https://github.com/FireChickenProductivity/GoogleSheetsTalonCommands): This was created in a hurry to make it practical for me to do a few assignments, but some people find it useful.
 
 [Key Rebinding](https://github.com/FireChickenProductivity/TalonKeyRebindings): This makes it easier to do some talon key rebinding work and was developed to help support the use case of a specific talon user.
