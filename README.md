@@ -9,6 +9,8 @@ I made a minor contribution to [sight-free-talon](https://github.com/C-Loftus/si
 
 I regularly contribute to [the talon voice community repository](https://github.com/talonhub/community), which is a widely used, community maintained talon configuration.
 
+I have been helping document more features on the [talon wiki](https://github.com/TalonCommunity/Wiki), what you can [read here](https://talon.wiki).
+
 ## Mouse Control
 [Mouse Control Chicken](https://github.com/FireChickenProductivity/MouseControlChicken): Offers several mouse grid systems. This works better for me than other systems for controlling the computer mouse through voice and offers considerable customization options. This system was also an experiment at using what I learned studying object oriented design to make a system that would be easier to extend and maintain.
 
