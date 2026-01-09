@@ -24,6 +24,8 @@ I have been helping document more features on the [talon wiki](https://github.co
 [Artificial History Generator](https://github.com/FireChickenProductivity/ArtificialTalonCommandHistoryGenerator): I made a program for generating an artificial talon voice command history that could have been used to generate an input text file (with some limitations). This can be combined with the Command Generator program to generate voice commands that may be useful for generating certain kinds of text.
 
 ## Miscellaneous
+[Power Face](https://github.com/FireChickenProductivity/PowerFace): Talon Voice extension for simple graphical user interfaces.
+
 [Correction Chicken](https://github.com/FireChickenProductivity/CorrectionChicken): Simple dictation error correction system.
 
 [Clipboard Manager](https://github.com/FireChickenProductivity/Talon-Voice-multidimensional-clipboard): Simple, but one of the most useful things I made.
